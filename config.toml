@@ -1,0 +1,43 @@
+baseURL = 'https://juicebar-demo.add1.dev/'
+languageCode = 'en'
+# languageCode = 'zh-CN'
+theme = "JuiceBar"
+
+
+[params]
+author = ""
+description = "PetaniBangkit"
+authorImage = ""
+paginate = 5
+
+Title = "PetaniBangkit"
+content = "Yuk support Petani Lokal Kita....!"
+imageUrl = "/images/farmprofil.jpg"
+# To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
+[[params.social]]
+name = "whatsapp"
+url = "https://wa.me/081311977026"
+
+[[params.social]]
+name = "instagram"
+url = "https://instagram.com/santricyber"
+
+[[params.social]]
+name = "facebook"
+url = "https://facebook.com/petanibangkit"
+
+[[params.social]]
+name = "email"
+url = "mailto:dimas@santricyber.com"
+
+[[params.social]]
+name = "youtube"
+url = "https://www.youtube.com/@kitabermanfaat"
+
+
+[[params.mermaid]]
+theme = "dark"
+align = "center"
+
+
+

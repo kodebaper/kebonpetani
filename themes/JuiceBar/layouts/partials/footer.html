@@ -1,0 +1,13 @@
+<footer class="footer">
+    <div class="content has-text-centered">
+        {{- if site.Copyright }}
+    <span>{{ site.Copyright | markdownify }}</span>
+    {{- else }}
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    {{- end }}
+    <span>
+        V.0.1.0 by
+        <a href="https://www.santricyber.com/" target="_blank">Santricyber</a>
+    </span>
+    </div>
+  </footer>

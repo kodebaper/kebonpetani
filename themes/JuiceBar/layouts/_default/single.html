@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content}}
+
+    <!-- Add mermaid min js file -->
+    {{ if (.Params.mermaid) }}
+    {{ partial "mermaid.html" }}
+    {{ end }}
+
+
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" site.Params.socialIcons }}
+    </footer>
+</article>
+{{- end -}}
+{{ end }}
