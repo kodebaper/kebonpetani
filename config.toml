@@ -1,4 +1,4 @@
-baseURL = 'https://www.petanibangkit.com/'
+baseURL = 'https://timely-otter-8095e5.netlify.app/'
 languageCode = 'en'
 # languageCode = 'en'
 theme = "JuiceBar"
