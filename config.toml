@@ -1,6 +1,6 @@
-baseURL = 'https://juicebar-demo.add1.dev/'
+baseURL = 'https://www.petanibangkit.com/'
 languageCode = 'en'
-# languageCode = 'zh-CN'
+# languageCode = 'en'
 theme = "JuiceBar"
 
 
