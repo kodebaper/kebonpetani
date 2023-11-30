@@ -1,7 +1,8 @@
 ---
-title: "🚚 Real time tracking"
+title: "🚚 Tracking Produk"
 date: 2023-11-12T16:26:19+07:00
 draft: false
+mermaid: true
 ---
 
 ------
@@ -11,6 +12,8 @@ draft: false
 >**Berikut merupakan Jadwal Distribusi Buah periode kirim Desember 2023**
 | Produk      |        Waktu            | Tujuan
 | ----------- | -----------             |--------
+| Durian      | 25 November             | close
+| Durian      | 28 November             | Close
 | Durian      | Minggu I Desember       | Depok
 | Durian      | Minggu II Desember      | Depok
 | Durian      | Minggu 3 Desember       | Jakarta utara
@@ -31,8 +34,25 @@ Info pengiriman lain bulan Desember
 | -              | -                       | -
 -----------------
 
-> #### Tracking dalam perjalanan
->> ###### Data belum tersedia saat ini
+> #### TRACKING DALAM PERJALANAN
+>> Tracking pengiriman durian ke depok 28 November 2023
+>
+>{{< mermaid >}}
+    stateDiagram
+    [*] --> 📑27_November_Panen
+    📑27_November_Panen -->📑27_November_sore_packing
+    📑27_November_sore_packing --> 🕐28_November_siang_Pengiriman
+    🕐28_November_siang_Pengiriman --> 🚚Paket_dalam_perjalanan
+    🚚Paket_dalam_perjalanan --> 🚚29_November_sampai_Depok
+    🚚29_November_sampai_Depok
+{{< /mermaid >}}
 
 
->> Halaman ini masih dalam tahap pengembangan dan fitur serta informasi akan di Update kembali!
+> #### Tracking Pengriman lain
+>> {{< mermaid >}}
+stateDiagram
+    [*] --> 📑Belum_Tersedia    
+    📑Belum_Tersedia -->📑Belum_ada_jadwal
+    📑Belum_ada_jadwal --> 🕐Tidak_ada_Pengiriman
+    🕐Tidak_ada_Pengiriman --> 🚚Belum_tersedia_distribusi
+    {{< /mermaid >}}

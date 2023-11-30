@@ -7,7 +7,7 @@ draft: false
 ------
 >****
 >**Ayo saatnya Kamu menjadi mitra Kami!**
->![mitra](/post/gambar/mitra.svg)
+>![mitra](/post/gambar/partner.png)
 >**Kenapa menjadi mitra PetaniBangkit?**
 >
 >Menjadi mitra Kami merupakan peluang usaha yang menjanjikan buat kamu, dimana program kemitraan adalah program yang memungkinkan kamu untuk membuka usaha penjualan buah dan sayur dengan minim resiko karena model kemitraan yang kami jalankan memiliki skema seperti berikut:

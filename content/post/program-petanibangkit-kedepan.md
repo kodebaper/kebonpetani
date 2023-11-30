@@ -6,5 +6,6 @@ draft: false
 ---
 
 ------
-halaman ini adalah halaman menampilkan informasi program ke depan
+![Petanibangkitfarm](/post/gambar/nodata.jpg)
+>>**Program lain dari PetaniBangkit saat ini belum tersedia.**
 

@@ -45,14 +45,14 @@ stateDiagram [*] --&gt; 📑Daftar_dropshipper 📑Daftar_dropshipper --&gt; �
     </item>
     
     <item>
-      <title>🚚 Real time tracking</title>
+      <title>🚚 Tracking Produk</title>
       <link>https://timely-otter-8095e5.netlify.app/post/track-produk-petani-bangkit/</link>
       <pubDate>Sun, 12 Nov 2023 16:26:19 +0700</pubDate>
       
       <guid>https://timely-otter-8095e5.netlify.app/post/track-produk-petani-bangkit/</guid>
       <description>Seluruh jadwal dan mekanisme Penjualan serta distribusi hasil dari petani lokal yang sedang dalam proses penanganan oleh PetaniBangkit dapat di lihat informasinya melalui halaman ini ya!
 Berikut merupakan Jadwal Distribusi Buah periode kirim Desember 2023
-Produk Waktu Tujuan Durian Minggu I Desember Depok Durian Minggu II Desember Depok Durian Minggu 3 Desember Jakarta utara Salak Minggu 2 Desember Depok Info pengiriman lain bulan Desember Berikut merupakan Jadwal Distribusi Produk lain periode kirim Desember 2023</description>
+Produk Waktu Tujuan Durian 25 November close Durian 28 November Close Durian Minggu I Desember Depok Durian Minggu II Desember Depok Durian Minggu 3 Desember Jakarta utara Salak Minggu 2 Desember Depok Info pengiriman lain bulan Desember Berikut merupakan Jadwal Distribusi Produk lain periode kirim Desember 2023</description>
     </item>
     
     <item>
@@ -61,16 +61,21 @@ Produk Waktu Tujuan Durian Minggu I Desember Depok Durian Minggu II Desember Dep
       <pubDate>Wed, 01 Nov 2023 16:17:09 +0700</pubDate>
       
       <guid>https://timely-otter-8095e5.netlify.app/post/program-petanibangkit-kedepan/</guid>
-      <description>halaman ini adalah halaman menampilkan informasi program ke depan</description>
+      <description>Program lain dari PetaniBangkit saat ini belum tersedia.</description>
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://timely-otter-8095e5.netlify.app/about/</link>
+      <title>Informasi</title>
+      <link>https://timely-otter-8095e5.netlify.app/info/</link>
       <pubDate>Fri, 26 Apr 2019 20:18:54 +0300</pubDate>
       
-      <guid>https://timely-otter-8095e5.netlify.app/about/</guid>
-      <description>untuk ujicoba halaman info</description>
+      <guid>https://timely-otter-8095e5.netlify.app/info/</guid>
+      <description>Informasin lain yang akan datang di penjualan hasil Produk pertanian dari program PetaniBangkit
+pie title Komoditas Desember &#34;Dogs&#34; : 386 &#34;Cats&#34; : 85 &#34;Rats&#34; : 150 Komoditas penjualan terbanyak pada bulan desember.
+Durian 62%
+Salak 24%
+lain-lain 14%
+Komoditas acuan yang akan masuk pengiriman periode bulan Desember ke Pasar induk Kramatjati dan sekitar Depok dan Bogor.</description>
     </item>
     
   </channel>

@@ -16,11 +16,11 @@ imageUrl = "/images/farmprofil.jpg"
 # To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
 [[params.social]]
 name = "whatsapp"
-url = "https://wa.me/081286317517"
+url = "https://wa.me/0881082450449"
 
 [[params.social]]
 name = "instagram"
-url = "https://instagram.com/santricyber"
+url = "https://instagram.com/petanibangkit"
 
 [[params.social]]
 name = "facebook"
@@ -32,7 +32,7 @@ url = "mailto:dimas@santricyber.com"
 
 [[params.social]]
 name = "youtube"
-url = "https://www.youtube.com/@kitabermanfaat"
+url = "https://www.petanibangkit.com/#"
 
 
 [[params.mermaid]]
