@@ -1,4 +1,4 @@
-baseURL = 'https://timely-otter-8095e5.netlify.app/'
+baseURL = 'https://www.petanibangkit.com/'
 languageCode = 'en'
 # languageCode = 'en'
 theme = "JuiceBar"
@@ -16,7 +16,7 @@ imageUrl = "/images/farmprofil.jpg"
 # To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
 [[params.social]]
 name = "whatsapp"
-url = "https://wa.me/0881082450449"
+url = "https://wa.me/+62881082450449"
 
 [[params.social]]
 name = "instagram"
