@@ -14,7 +14,9 @@ mermaid: true
 | ----------- | -----------             |--------
 | Durian      | 25 November             | close
 | Durian      | 28 November             | Close
-| Durian      | Minggu I Desember       | Depok
+| Durian      | 03 Desember             | close
+| Durian      | 04 Desember             | close
+| Durian      | 07 Desember             | Depok
 | Durian      | Minggu II Desember      | Depok
 | Durian      | Minggu 3 Desember       | Jakarta utara
 | Salak       | Minggu 2 Desember       | Depok
@@ -39,12 +41,11 @@ Info pengiriman lain bulan Desember
 >
 >{{< mermaid >}}
     stateDiagram
-    [*] --> 📑27_November_Panen
-    📑27_November_Panen -->📑27_November_sore_packing
-    📑27_November_sore_packing --> 🕐28_November_siang_Pengiriman
-    🕐28_November_siang_Pengiriman --> 🚚Paket_dalam_perjalanan
-    🚚Paket_dalam_perjalanan --> 🚚29_November_sampai_Depok
-    🚚29_November_sampai_Depok
+    [*] --> 📑03_Desember_Panen
+    📑03_Desember_Panen -->📑04_Desember_sore_packing
+    📑04_Desember_sore_packing --> 🕐04_Desember_siang_Pengiriman
+    🕐04_Desember_siang_Pengiriman --> 🚚Paket_dalam_perjalanan
+    🚚Paket_dalam_perjalanan --> 🚚05_Desember_sampai_Depok
 {{< /mermaid >}}
 
 

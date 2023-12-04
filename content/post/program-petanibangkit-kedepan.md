@@ -7,5 +7,5 @@ draft: false
 
 ------
 ![Petanibangkitfarm](/post/gambar/nodata.jpg)
->>**Program lain dari PetaniBangkit saat ini belum tersedia.**
+>>**Yaah program lain dari PetaniBangkit saat ini belum tersedia, maaf ya gaeess.**
 
