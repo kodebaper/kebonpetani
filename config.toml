@@ -10,6 +10,13 @@ description = "PetaniBangkit"
 authorImage = ""
 paginate = 5
 
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+googleAnalytics = "G-YCRQMG5EP6"
+enableRobotsTXT = true
+
+
 Title = "PetaniBangkit"
 content = "Yuk support Petani Lokal Kita....!"
 imageUrl = "/images/farmprofil.jpg"
